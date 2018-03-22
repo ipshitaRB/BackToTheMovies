@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BackToTheMovies</string>
+    <string name="movie_parcel_key">Movie key</string>
+    <string name="no_internet">Internet is not connected</string>
 </resources>
